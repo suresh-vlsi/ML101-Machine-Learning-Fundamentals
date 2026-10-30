@@ -1,19 +1,24 @@
 # ML101 – Machine Learning Fundamentals
 
-## Overview
-This repository contains Jupyter Notebook implementations and learning materials covering Python programming fundamentals and introductory Machine Learning concepts.
+## About the Workshop
+
+This repository contains learning materials and Jupyter Notebook implementations from the **ML101 – Machine Learning Fundamentals Workshop**, attended at **IIT Bombay**.
+
+The workshop introduced fundamental Python programming concepts and the foundations of Machine Learning through practical coding exercises.
 
 ## Topics Covered
-- Python fundamentals and data types
-- Variables and operators
-- Lists, tuples, sets, and dictionaries
-- Conditional statements and loops
-- Python functions
-- Data manipulation and exploration
+
+- Python Fundamentals and Data Types
+- Variables and Operators
+- Lists, Tuples, Sets, and Dictionaries
+- Conditional Statements and Loops
+- Python Functions
+- Data Manipulation and Exploration
 - Introduction to Scikit-Learn
-- Machine Learning model training and evaluation
+- Machine Learning Model Training and Evaluation
 
 ## Tools and Technologies
+
 - Python
 - Jupyter Notebook
 - NumPy
@@ -22,16 +27,17 @@ This repository contains Jupyter Notebook implementations and learning materials
 - Scikit-Learn
 
 ## Repository Structure
+
 ```text
 ML101-Machine-Learning-Fundamentals/
 │
-├── ML101_Machine_Learning_Fundamentals_fixed.ipynb
+├── ML101_Machine_Learning_Fundamentals.ipynb
 └── README.md
 ```
 
 ## Getting Started
 
-Install the dependencies:
+Install the required dependencies:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn jupyter
@@ -45,7 +51,9 @@ jupyter notebook
 
 Open the notebook and execute the cells sequentially.
 
-## Author
-Kusumuru Suresh Kumar
+## Learning Objectives
 
-GitHub: https://github.com/suresh-vlsi
+- Develop Python programming proficiency.
+- Understand fundamental Machine Learning concepts.
+- Gain practical experience with Python-based data analysis.
+- Build a foundation for implementing Machine Learning algorithms.
