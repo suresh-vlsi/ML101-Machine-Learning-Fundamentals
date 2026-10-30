@@ -6,6 +6,14 @@ This repository contains learning materials and Jupyter Notebook implementations
 
 The workshop introduced fundamental Python programming concepts and the foundations of Machine Learning through practical coding exercises.
 
+## Run on Google Colab
+
+Open and execute the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v63d0Ge5kLtM5t0jzoNIjTJf29d1CLKN)
+
+**Google Colab Notebook:** [ML101 – Machine Learning Fundamentals](https://colab.research.google.com/drive/1v63d0Ge5kLtM5t0jzoNIjTJf29d1CLKN)
+
 ## Topics Covered
 
 - Python Fundamentals and Data Types
