@@ -8,11 +8,11 @@ The workshop introduced fundamental Python programming concepts and the foundati
 
 ## Run on Google Colab
 
-Open and execute the notebook directly in Google Colab:
+Open and execute the enhanced notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v63d0Ge5kLtM5t0jzoNIjTJf29d1CLKN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iwBJ9IlIxX7qECfaDRKGKUfDIgynRSum)
 
-**Google Colab Notebook:** [ML101 – Machine Learning Fundamentals](https://colab.research.google.com/drive/1v63d0Ge5kLtM5t0jzoNIjTJf29d1CLKN)
+**Google Colab Notebook:** [ML101 – Machine Learning Fundamentals (Enhanced Version)](https://colab.research.google.com/drive/1iwBJ9IlIxX7qECfaDRKGKUfDIgynRSum)
 
 ## Topics Covered
 
